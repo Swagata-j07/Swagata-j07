@@ -2,7 +2,7 @@
 
 <h3 align="center">An analytical brain, insighted as data analyst.</h3>
 
-<img src="https://media.licdn.com/dms/image/D5622AQHfpjL234EClw/feedshare-shrink_2048_1536/0/1693911767128?e=2147483647&v=beta&t=J2ZGomfV_OEzCK57MHHoGWAY8c8kmzalpvQ65tN8b40" alt="Coding" align="right" width="400">
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2U3M3VsdTlxMnRhaGlzd3cyZDA4MTIzMW5hYTBiYTRoamZrM2w4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sEMu2NazME9xcw92Zs/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagata-j07&label=Profile%20views&color=0e75b6&style=flat" alt="swagata-j07" /> </p>
 
