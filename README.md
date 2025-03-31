@@ -30,7 +30,7 @@ from Kolkata, India.</h2>
 ### 
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" alt="javascript logo"  />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="55" alt="javascript logo"  />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="typescript logo"  />
 <img width="12" />
