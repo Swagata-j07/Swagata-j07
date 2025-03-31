@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swagata Murmu</h1>
 
-<h3 align="center">An analytical brain, insighted as data analyst.</h3>
+<h3 align="center">An analytical mind with a keen eye for insights, aspiring to be a data analyst.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2U3M3VsdTlxMnRhaGlzd3cyZDA4MTIzMW5hYTBiYTRoamZrM2w4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sEMu2NazME9xcw92Zs/giphy.gif">
 
