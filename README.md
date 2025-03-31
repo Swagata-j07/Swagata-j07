@@ -9,11 +9,11 @@ from Kolkata, India.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagata-j07&label=Profile%20views&color=0e75b6&style=flat" alt="swagata-j07" /> </p>
 
-- 🌱 I’m currently learning **Power BI, SQL, Tableau, Python, AI Data, Excel**
+🌱 I’m currently learning **Power BI, SQL, Tableau, Python, AI Data, Excel**
 
-- 📫 How to reach me **swagatamurmu.5@gmail.com**
+📫 How to reach me **swagatamurmu.5@gmail.com**
 
-- ⚡ Fun fact **I can think**
+⚡ Fun fact about me : **My brain 🧠 runs on if-else conditions.**
 
 ### 
 
@@ -22,7 +22,7 @@ from Kolkata, India.</h2>
 
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=swagata-j07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="170" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=swagata-j07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="115" alt="languages graph"  />
 </div>
 
 
@@ -30,7 +30,7 @@ from Kolkata, India.</h2>
 ### 
 
 <div align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="javascript logo"  />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" alt="javascript logo"  />
 <img width="12" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="typescript logo"  />
 <img width="12" />
