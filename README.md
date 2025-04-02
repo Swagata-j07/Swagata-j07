@@ -1,3 +1,4 @@
+![Header](https://github.com/Swagata-j07/Swagata-j07/blob/main/Make%20your%20README%20.png)
 <h2 align="left">Hey 👋 I'm Swagata
 “An analytical mind with a keen eye for insights, aspiring to be a data analyst” 
 from Kolkata, India.</h2>
