@@ -2,7 +2,7 @@
 
 ### 
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2U3M3VsdTlxMnRhaGlzd3cyZDA4MTIzMW5hYTBiYTRoamZrM2w4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sEMu2NazME9xcw92Zs/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2U3M3VsdTlxMnRhaGlzd3cyZDA4MTIzMW5hYTBiYTRoamZrM2w4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sEMu2NazME9xcw92Zs/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swagata-j07&label=Profile%20views&color=0e75b6&style=flat" alt="swagata-j07" /> </p>
